@@ -1,0 +1,41 @@
+snomed_concept,omop_concept_id,concept_name,nephrotic_syndrome,nephritis
+19351000,435308,Acute glomerulonephritis,0,1
+197582001,435320,Acute glomerulonephritis associated with another disorder,0,1
+197580009,435003,Acute nephritis with lesions of necrotizing glomerulitis,0,1
+68544003,4286024,Acute post-streptococcal glomerulonephritis,0,1
+197579006,259070,Acute proliferative glomerulonephritis,0,1
+20917003,312358,Chronic glomerulonephritis,0,1
+197616000,442075,Chronic glomerulonephritis associated with another disorder,0,1
+197707007,4056478,Chronic nephritic syndrome,0,1
+197614002,442076,Chronic rapidly progressive glomerulonephritis,0,1
+48796009,4172011,Congenital nephrotic syndrome,1,0
+111406002,4008560,Diffuse mesangial sclerosis,1,0
+83866005,4222610,Focal AND segmental proliferative glomerulonephritis,0,1
+197626007,442074,Focal membranoproliferative glomerulonephritis,0,1
+236403004,4030513,Focal segmental glomerulosclerosis,1,0
+197679002,4059452,Glomerular disease,0,0
+36171008,4263367,Glomerulonephritis,0,1
+197661001,261071,Glomerulosclerosis,0,0
+50581000,195289,Goodpasture's syndrome,0,0
+399340005,4161421,Hereditary nephritis,0,1
+236407003,4128061,IgA nephropathy,0,0
+77182004,252365,Membranous glomerulonephritis,1,0
+80321008,433257,Mesangiocapillary glomerulonephritis,0,1
+75888001,4294813,"Mesangiocapillary glomerulonephritis, type I",0,1
+59479006,4241966,"Mesangiocapillary glomerulonephritis, type II",0,1
+44785005,4260398,Minimal change disease,1,0
+7724006,4298809,Nephritic syndrome,0,1
+52845002,193253,Nephritis,0,1
+52254009,195314,Nephrotic syndrome,1,0
+197603000,192364,Nephrotic syndrome associated with another disorder,1,0
+197600002,4058843,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",0,1
+197598008,4027120,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",1,0
+197594005,4058840,"Nephrotic syndrome, focal and segmental glomerular lesions",1,0
+197593004,4056346,"Nephrotic syndrome, minor glomerular abnormality",1,0
+197591002,192362,Nephrotic syndrome with membranoproliferative glomerulonephritis,0,1
+197590001,194405,Nephrotic syndrome with membranous glomerulonephritis,0,1
+266549004,199071,Nephrotic syndrome with minimal change glomerulonephritis,1,0
+197589005,197319,Nephrotic syndrome with proliferative glomerulonephritis,1,0
+236395002,4125958,Post-infectious glomerulonephritis,0,1
+236392004,196464,Rapidly progressive glomerulonephritis,0,1
+236381000,4128055,Steroid-resistant nephrotic syndrome,1,0
